@@ -1,6 +1,7 @@
 # Olá, me chamo Augusto Feltrin. Seja bem-vindo ao meu Perfil 👋
 
-- 🌱 Atualmente sou estudante do Geração Caldeira.
+- 💻 Cursando ensino médio integrado ao técnico em informática
+- 🌱 Estudante do Geração Caldeira em 2023.
 - 🔭 Em busca de meu primeiro emprego na área de tecnologia e programação.
 - 📫 Como entrar em contato comigo: [guto.feltrin@gmail.com](mailto:guto.feltrin@gmail.com).
 
@@ -22,6 +23,10 @@
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="65" height="65" />
         <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Java" width="65" height="65" />
+        <br>Javascript
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
