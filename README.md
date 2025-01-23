@@ -1,6 +1,6 @@
 # Olá, me chamo Augusto Feltrin. Seja bem-vindo ao meu Perfil 👋
 
-- 💻 Cursando Análise de Desenvolvimento se Sistemas na Unisinos 
+- 💻 Cursando análise de desenvolvimento se sistemas na Unisinos 
 - 🌱 Estudante do Geração Caldeira em 2023.
 - 🔭 Em busca de meu primeiro emprego na área de tecnologia e programação.
 - 📫 Como entrar em contato comigo: [guto.feltrin@gmail.com](mailto:guto.feltrin@gmail.com).
