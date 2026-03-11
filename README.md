@@ -1,6 +1,6 @@
 # Augusto Feltrin 👋
 
-**Desenvolvedor em Formação 
+**Desenvolvedor em Formação**
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Unisinos).
 - 🍃 Alumni do programa **Geração Caldeira** (2023).
