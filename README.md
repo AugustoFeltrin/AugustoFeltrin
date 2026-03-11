@@ -1,41 +1,30 @@
-# Olá, me chamo Augusto Feltrin. Seja bem-vindo ao meu Perfil 👋
+# Augusto Feltrin 👋
 
-- 💻 Cursando análise de desenvolvimento se sistemas na Unisinos 
-- 🌱 Estudante do Geração Caldeira em 2023.
-- 🔭 Em busca de meu primeiro emprego na área de tecnologia e programação.
-- 📫 Como entrar em contato comigo: [guto.feltrin@gmail.com](mailto:guto.feltrin@gmail.com).
+**Desenvolvedor em Formação 
 
-### Minhas Habilidades:
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Unisinos).
+- 🍃 Alumni do programa **Geração Caldeira** (2023).
+- 🔍 Buscando primeira oportunidade profissional na área de tecnologia.
 
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Java" width="65" height="65" />
-        <br>Javascript
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,php,mysql,html,css" alt="Minhas Tecnologias" />
+</p>
+
+---
+
+### 📊 Linguagens mais utilizadas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFeltrin&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AugustoFeltrin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guto.feltrin@gmail.com)
