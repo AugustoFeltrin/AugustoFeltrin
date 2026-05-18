@@ -19,7 +19,10 @@
 ### 📊 Linguagens mais utilizadas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFeltrin&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFeltrin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+    height="165"
+  />
 </p>
 
 ---
