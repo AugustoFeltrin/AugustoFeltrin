@@ -16,12 +16,11 @@
 
 ---
 
-### 📊 Linguagens mais utilizadas
+### 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFeltrin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
-    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustoFeltrin&theme=github_dark"
   />
 </p>
 
